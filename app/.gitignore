@@ -35,7 +35,7 @@ build/
 mvnw
 mvnw.cmd
 *.iml
-.mvn
+#.mvn
 
 ### react and node ones to exclude nodes dependencies
 node_modules
